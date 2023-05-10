@@ -5,7 +5,7 @@ import ru.example.first_project.MyCompareTo;
 
 public class CompareToTester {
 
-    @RepeatedTest(100)
+    @RepeatedTest(1000)
      void test() {
         String[] str;
         String str1, str2;
